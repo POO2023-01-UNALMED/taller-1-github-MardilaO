@@ -1,3 +1,5 @@
 David Esteban Martin Acosta
 19 
 Aprender los conceptos del paradigma de poo, para poderlo aplicar en el desarrollo de aplicaciones 
+Ya que, la carpeta no esta vacia 
+Se pueden generar conflictos en las diferentes versiones del trabajo
